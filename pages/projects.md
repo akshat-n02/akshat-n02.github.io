@@ -6,8 +6,14 @@ permalink: /projects/
 
 <style>
 .content-wrapper {
+  width: 100% !important;
   max-width: 100% !important;
-  padding: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.container {
+  width: 100% !important;
+  max-width: 100% !important;
 }
 .row-2 {
   display: grid;
@@ -41,16 +47,4 @@ permalink: /projects/
     <div class="placeholder"></div>
     <p>Project One Title</p>
   </a>
-  <a href="/projects/project2/" class="project-card">
-    <div class="placeholder"></div>
-    <p>Project Two Title</p>
-  </a>
-</div>
-
-<div class="row-3">
-  <a href="/projects/project3/" class="project-card">
-    <div class="placeholder"></div>
-    <p>Project Three Title</p>
-  </a>
-  <a href="/projects/project4/" class="project-card">
-    <div class=
+  <a href="/projects/project2/" class="project-

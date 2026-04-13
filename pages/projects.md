@@ -36,7 +36,9 @@ permalink: /projects/
     <p>Project Two Title</p>
   </a>
   <a href="/projects/project3/" class="project-card">
-    <div class="placeholder"></div>
-    <p>Project Three Title</p>
+    <div class="placeholder" style="background-color: #000; display: flex; align-items: center; justify-content: center;">
+      <img src="/assets/images/logo-d-dock.png" style="width: 60%; height: auto; filter: invert(1);">
+    </div>
+    <p>D/DOCK</p>
   </a>
 </div>

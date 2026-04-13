@@ -54,7 +54,7 @@ permalink: /projects/
 <div class="row-3">
   <a href="/projects/project1/" class="project-card">
     <div class="placeholder centered" style="background-image: url('/assets/img/MONOMbg.jpg');">
-      <img src="/assets/img/monomlogo.jpg" alt="MONOM logo" style="width: 50%;">
+      <img src="/assets/img/monomlogo.jpg" alt="MONOM logo" style="width: 40%;">
     </div>
     <p>MONOM</p>
   </a>
@@ -66,7 +66,7 @@ permalink: /projects/
   </a>
   <a href="/projects/project3/" class="project-card">
     <div class="placeholder centered" style="background-image: url('/assets/img/DB55');">
-      <img src="/assets/img/logo-d-dock.png" alt="D/DOCK logo" style="width: 50%; filter: invert(1);">
+      <img src="/assets/img/logo-d-dock.png" alt="D/DOCK logo" style="width: 30%; filter: invert(1);">
     </div>
     <p>D/DOCK</p>
   </a>

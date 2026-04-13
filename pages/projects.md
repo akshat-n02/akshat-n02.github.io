@@ -16,11 +16,15 @@ permalink: /projects/
   grid-template-columns: 1fr 1fr 1fr;
   gap: 16px;
 }
-.project-card img {
+.project-card {
+  text-decoration: none;
+  color: inherit;
+}
+.project-card .placeholder {
   width: 100%;
   height: 300px;
-  object-fit: cover;
-  display: block;
+  background-color: #222;
+  border: 1px solid #555;
 }
 .project-card p {
   margin: 8px 0 16px 0;
@@ -29,27 +33,27 @@ permalink: /projects/
 </style>
 
 <div class="row-2">
-  <div class="project-card">
-    <img src="/assets/images/project1.jpg" alt="Project 1">
+  <a href="/projects/project1/" class="project-card">
+    <div class="placeholder"></div>
     <p>Project One Title</p>
-  </div>
-  <div class="project-card">
-    <img src="/assets/images/project2.jpg" alt="Project 2">
+  </a>
+  <a href="/projects/project2/" class="project-card">
+    <div class="placeholder"></div>
     <p>Project Two Title</p>
-  </div>
+  </a>
 </div>
 
 <div class="row-3">
-  <div class="project-card">
-    <img src="/assets/images/project3.jpg" alt="Project 3">
+  <a href="/projects/project3/" class="project-card">
+    <div class="placeholder"></div>
     <p>Project Three Title</p>
-  </div>
-  <div class="project-card">
-    <img src="/assets/images/project4.jpg" alt="Project 4">
+  </a>
+  <a href="/projects/project4/" class="project-card">
+    <div class="placeholder"></div>
     <p>Project Four Title</p>
-  </div>
-  <div class="project-card">
-    <img src="/assets/images/project5.jpg" alt="Project 5">
+  </a>
+  <a href="/projects/project5/" class="project-card">
+    <div class="placeholder"></div>
     <p>Project Five Title</p>
-  </div>
+  </a>
 </div>

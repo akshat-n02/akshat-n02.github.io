@@ -21,7 +21,7 @@ permalink: /projects/
   border: 1px solid #555;
 }
 .project-card .placeholder.centered {
-  background-image: url('/assets/img/DB55.jpg');
+  background-image: url('/assets/img/DB55');
   background-size: cover;
   background-position: center;
   display: flex;
@@ -36,7 +36,7 @@ permalink: /projects/
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(0, 0, 0, 0.5);
 }
 .project-card .placeholder.centered img {
   width: 60%;

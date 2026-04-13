@@ -52,19 +52,19 @@ permalink: /projects/
 
 <div class="row-3">
   <a href="/projects/project1/" class="project-card">
-    <div class="placeholder centered" style="background-image: url('/assets/img/monombg.jpg');">
+    <div class="placeholder centered" style="background-image: url('/assets/img/MONOMbg.jpg');">
       <img src="/assets/img/monomlogo.jpg" alt="MONOM logo" style="width: 60%;">
     </div>
     <p>MONOM</p>
   </a>
   <a href="/projects/project2/" class="project-card">
     <div class="placeholder centered" style="background-image: url('/assets/img/4dsoundbg.png');">
-      <img src="/assets/img/4dsoundlogo.png" alt="4DSOUND logo" style="width: 110%;">
+      <img src="/assets/img/4dsoundlogo.png" alt="4DSOUND logo" style="width: 130%;">
     </div>
     <p>4DSOUND</p>
   </a>
   <a href="/projects/project3/" class="project-card">
-    <div class="placeholder centered" style="background-image: url('/assets/img/db55');">
+    <div class="placeholder centered" style="background-image: url('/assets/img/DB55');">
       <img src="/assets/img/logo-d-dock.png" alt="D/DOCK logo" style="width: 60%; filter: invert(1);">
     </div>
     <p>D/DOCK</p>

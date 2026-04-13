@@ -63,7 +63,7 @@ permalink: /projects/
   </a>
   <a href="/projects/project3/" class="project-card">
     <div class="placeholder centered" style="background-image: url('/assets/img/DB55.jpg');">
-      <img src="/assets/img/logo-d-dock.png" alt="D/DOCK logo" style="width: 60%; filter: invert(1);">
+      <img src="/assets/img/DB55.png" alt="D/DOCK logo" style="width: 60%; filter: invert(1);">
     </div>
     <p>D/DOCK</p>
   </a>

@@ -52,7 +52,7 @@ permalink: /projects/
 }
 </style>
 
-<p class="projects-intro">Write your intro paragraph here. This is a separate section above the project images.</p>
+<p class="projects-intro">Hello hello helloooo here i talk about myself.</p>
 
 <div class="row-3">
   <a href="/projects/project1/" class="project-card">

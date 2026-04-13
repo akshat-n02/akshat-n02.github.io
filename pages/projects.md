@@ -45,29 +45,30 @@ permalink: /projects/
   position: relative;
   z-index: 1;
 }
-.project-card p {
-  margin: 8px 0 16px 0;
+.project-card .project-title {
+  margin: 0 0 8px 0;
   font-size: 14px;
+  font-weight: 700;
 }
 </style>
 
 <div class="row-3">
   <a href="/projects/project1/" class="project-card">
+    <p class="project-title">MONOM</p>
     <div class="placeholder centered" style="background-image: url('/assets/img/MONOMbg.jpg');">
       <img src="/assets/img/monomlogo.jpg" alt="MONOM logo" style="width: 40%;">
     </div>
-    <p>MONOM</p>
   </a>
   <a href="/projects/project2/" class="project-card">
+    <p class="project-title">4DSOUND</p>
     <div class="placeholder centered" style="background-image: url('/assets/img/4dsoundbg.png');">
       <img src="/assets/img/4dsoundlogo.png" alt="4DSOUND logo" style="width: 90%;">
     </div>
-    <p>4DSOUND</p>
   </a>
   <a href="/projects/project3/" class="project-card">
+    <p class="project-title">D/DOCK</p>
     <div class="placeholder centered" style="background-image: url('/assets/img/DB55');">
       <img src="/assets/img/logo-d-dock.png" alt="D/DOCK logo" style="width: 30%; filter: invert(1);">
     </div>
-    <p>D/DOCK</p>
   </a>
 </div>

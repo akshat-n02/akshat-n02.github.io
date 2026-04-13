@@ -38,7 +38,6 @@ permalink: /projects/
   background-color: rgba(0, 0, 0, 0.2);
 }
 .project-card .placeholder.centered img {
-  width: 60%;
   height: auto;
   display: block;
   margin: auto !important;
@@ -58,13 +57,13 @@ permalink: /projects/
   </a>
   <a href="/projects/project2/" class="project-card">
     <div class="placeholder centered" style="background-image: url('/assets/img/4dsoundbg.png');">
-      <img src="/assets/img/4dsoundlogo.png" alt="4DSOUND logo">
+      <img src="/assets/img/4dsoundlogo.png" alt="4DSOUND logo" style="width: 80%;">
     </div>
     <p>4DSOUND</p>
   </a>
   <a href="/projects/project3/" class="project-card">
     <div class="placeholder centered" style="background-image: url('/assets/img/DB55.jpg');">
-      <img src="/assets/img/logo-d-dock.png" alt="D/DOCK logo" style="filter: invert(1);">
+      <img src="/assets/img/logo-d-dock.png" alt="D/DOCK logo" style="width: 60%; filter: invert(1);">
     </div>
     <p>D/DOCK</p>
   </a>

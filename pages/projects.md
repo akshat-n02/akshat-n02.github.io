@@ -27,6 +27,7 @@ permalink: /projects/
   position: relative;
   background-size: cover;
   background-position: center;
+  overflow: hidden;
 }
 .project-card .placeholder.centered::after {
   content: '';
@@ -59,7 +60,7 @@ permalink: /projects/
   </a>
   <a href="/projects/project2/" class="project-card">
     <div class="placeholder centered" style="background-image: url('/assets/img/4dsoundbg.png');">
-      <img src="/assets/img/4dsoundlogo.png" alt="4DSOUND logo" style="width: 130%;">
+      <img src="/assets/img/4dsoundlogo.png" alt="4DSOUND logo" style="width: 70%;">
     </div>
     <p>4DSOUND</p>
   </a>

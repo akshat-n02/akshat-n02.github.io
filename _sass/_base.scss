@@ -2,6 +2,13 @@
   Reset some basic elements
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
+
+* {
+  font-family: 'Nunito', sans-serif;
+  text-transform: uppercase;
+}
+
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {

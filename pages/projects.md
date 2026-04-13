@@ -1,16 +1,10 @@
 ---
 layout: default
-title: 'Projects'
+title: 
 permalink: /projects/
 ---
 
 <style>
-.row-2 {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 16px;
-  margin-bottom: 16px;
-}
 .row-3 {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -32,7 +26,7 @@ permalink: /projects/
 }
 </style>
 
-<div class="row-2">
+<div class="row-3">
   <a href="/projects/project1/" class="project-card">
     <div class="placeholder"></div>
     <p>Project One Title</p>
@@ -41,19 +35,8 @@ permalink: /projects/
     <div class="placeholder"></div>
     <p>Project Two Title</p>
   </a>
-</div>
-
-<div class="row-3">
   <a href="/projects/project3/" class="project-card">
     <div class="placeholder"></div>
     <p>Project Three Title</p>
-  </a>
-  <a href="/projects/project4/" class="project-card">
-    <div class="placeholder"></div>
-    <p>Project Four Title</p>
-  </a>
-  <a href="/projects/project5/" class="project-card">
-    <div class="placeholder"></div>
-    <p>Project Five Title</p>
   </a>
 </div>

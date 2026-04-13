@@ -21,13 +21,12 @@ permalink: /projects/
   border: 1px solid #555;
 }
 .project-card .placeholder.centered {
-  background-image: url('/assets/img/DB55');
-  background-size: cover;
-  background-position: center;
   display: flex;
   align-items: center;
   justify-content: center;
   position: relative;
+  background-size: cover;
+  background-position: center;
 }
 .project-card .placeholder.centered::after {
   content: '';
@@ -36,12 +35,11 @@ permalink: /projects/
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.2);
 }
 .project-card .placeholder.centered img {
   width: 60%;
   height: auto;
-  filter: invert(1);
   display: block;
   margin: auto !important;
   position: relative;
@@ -59,12 +57,14 @@ permalink: /projects/
     <p>Project One Title</p>
   </a>
   <a href="/projects/project2/" class="project-card">
-    <div class="placeholder"></div>
-    <p>Project Two Title</p>
+    <div class="placeholder centered" style="background-image: url('/assets/img/4dsoundbg.png');">
+      <img src="/assets/img/4dsoundlogo.png" alt="4DSOUND logo">
+    </div>
+    <p>4DSOUND</p>
   </a>
   <a href="/projects/project3/" class="project-card">
-    <div class="placeholder centered">
-      <img src="/assets/img/logo-d-dock.png" alt="D/DOCK logo">
+    <div class="placeholder centered" style="background-image: url('/assets/img/DB55.jpg');">
+      <img src="/assets/img/logo-d-dock.png" alt="D/DOCK logo" style="filter: invert(1);">
     </div>
     <p>D/DOCK</p>
   </a>

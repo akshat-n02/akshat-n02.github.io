@@ -40,14 +40,14 @@
 
 <header class="site-header">
   <div class="header-top">
-    <nav class="header-social">
-      {% for item in site.data.settings.social %}
-        <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-      {% endfor %}
-    </nav>
     <nav class="header-menu">
       {% for item in site.data.settings.menu %}
         <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
+      {% endfor %}
+    </nav>
+    <nav class="header-social">
+      {% for item in site.data.settings.social %}
+        <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
       {% endfor %}
     </nav>
   </div>

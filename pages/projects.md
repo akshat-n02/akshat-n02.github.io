@@ -21,7 +21,9 @@ permalink: /projects/
   border: 1px solid #555;
 }
 .project-card .placeholder.centered {
-  background-color: #000;
+  background-image: url('/assets/img/ddock-building.jpg');
+  background-size: cover;
+  background-position: center;
   display: flex;
   align-items: center;
   justify-content: center;

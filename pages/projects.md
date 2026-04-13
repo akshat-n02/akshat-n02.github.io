@@ -60,7 +60,7 @@ permalink: /projects/
   </a>
   <a href="/projects/project2/" class="project-card">
     <div class="placeholder centered" style="background-image: url('/assets/img/4dsoundbg.png');">
-      <img src="/assets/img/4dsoundlogo.png" alt="4DSOUND logo" style="width: 100%;">
+      <img src="/assets/img/4dsoundlogo.png" alt="4DSOUND logo" style="width: 99%;">
     </div>
     <p>4DSOUND</p>
   </a>

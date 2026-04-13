@@ -5,11 +5,7 @@ permalink: /projects/
 ---
 
 <style>
-.page-content {
-  max-width: 100% !important;
-  padding: 0 !important;
-}
-article {
+.content-wrapper {
   max-width: 100% !important;
   padding: 0 !important;
 }
@@ -57,11 +53,4 @@ article {
     <p>Project Three Title</p>
   </a>
   <a href="/projects/project4/" class="project-card">
-    <div class="placeholder"></div>
-    <p>Project Four Title</p>
-  </a>
-  <a href="/projects/project5/" class="project-card">
-    <div class="placeholder"></div>
-    <p>Project Five Title</p>
-  </a>
-</div>
+    <div class=

@@ -29,14 +29,14 @@ permalink: /projects/
 <div class="row-3">
   <a href="/projects/project1/" class="project-card">
     <div class="placeholder"></div>
-    <p>Project One Title</p>
+    <p>MONOM Studios</p>
   </a>
   <a href="/projects/project2/" class="project-card">
     <div class="placeholder"></div>
-    <p>Project Two Title</p>
+    <p>4DSOUND</p>
   </a>
   <a href="/projects/project3/" class="project-card">
     <div class="placeholder"></div>
-    <p>Project Three Title</p>
+    <p>D/DOCK</p>
   </a>
 </div>

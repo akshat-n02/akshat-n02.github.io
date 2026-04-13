@@ -9,21 +9,20 @@ permalink: /projects/
   max-width: 100% !important;
   padding: 0 !important;
 }
-.page-title {
-  padding: 40px 40px 20px 40px;
+article {
+  max-width: 100% !important;
+  padding: 0 !important;
 }
 .row-2 {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 16px;
   margin-bottom: 16px;
-  padding: 0 40px;
 }
 .row-3 {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 16px;
-  padding: 0 40px;
 }
 .project-card {
   text-decoration: none;

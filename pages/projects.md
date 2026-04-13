@@ -1,20 +1,29 @@
 ---
-layout: page
+layout: default
 title: Projects
 permalink: /projects/
 ---
 
 <style>
+.page-content {
+  max-width: 100% !important;
+  padding: 0 !important;
+}
+.page-title {
+  padding: 40px 40px 20px 40px;
+}
 .row-2 {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 16px;
   margin-bottom: 16px;
+  padding: 0 40px;
 }
 .row-3 {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 16px;
+  padding: 0 40px;
 }
 .project-card {
   text-decoration: none;
@@ -31,6 +40,8 @@ permalink: /projects/
   font-size: 14px;
 }
 </style>
+
+<h1 class="page-title">Projects</h1>
 
 <div class="row-2">
   <a href="/projects/project1/" class="project-card">

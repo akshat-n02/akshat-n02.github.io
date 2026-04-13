@@ -41,8 +41,6 @@ permalink: /projects/
 }
 </style>
 
-<h1 class="page-title">Projects</h1>
-
 <div class="row-2">
   <a href="/projects/project1/" class="project-card">
     <div class="placeholder"></div>

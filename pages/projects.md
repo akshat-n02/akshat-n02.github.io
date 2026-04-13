@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title:
 permalink: /projects/
 ---
 
@@ -10,16 +10,34 @@ permalink: /projects/
   grid-template-columns: 1fr 1fr 1fr;
   gap: 16px;
 }
+
 .project-card {
   text-decoration: none;
   color: inherit;
 }
+
 .project-card .placeholder {
   width: 100%;
   height: 500px;
   background-color: #222;
   border: 1px solid #555;
 }
+
+/* Centered variant for D/DOCK */
+.project-card .placeholder.centered {
+  background-color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.project-card .placeholder.centered img {
+  width: 60%;
+  height: auto;
+  filter: invert(1);
+  display: block;
+}
+
 .project-card p {
   margin: 8px 0 16px 0;
   font-size: 14px;
@@ -31,13 +49,15 @@ permalink: /projects/
     <div class="placeholder"></div>
     <p>Project One Title</p>
   </a>
+
   <a href="/projects/project2/" class="project-card">
     <div class="placeholder"></div>
     <p>Project Two Title</p>
   </a>
+
   <a href="/projects/project3/" class="project-card">
-    <div class="placeholder" style="background-color: #000; display: flex; align-items: center; justify-content: center;">
-      <img src="/assets/images/logo-d-dock.png" style="width: 60%; height: auto; filter: invert(1);">
+    <div class="placeholder centered">
+      <img src="/assets/img/logo-d-dock.png" alt="D/DOCK logo">
     </div>
     <p>D/DOCK</p>
   </a>

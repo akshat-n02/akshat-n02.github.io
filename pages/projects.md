@@ -21,12 +21,22 @@ permalink: /projects/
   border: 1px solid #555;
 }
 .project-card .placeholder.centered {
-  background-image: url('/assets/img/DB55');
+  background-image: url('/assets/img/DB55.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
   align-items: center;
   justify-content: center;
+  position: relative;
+}
+.project-card .placeholder.centered::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
 }
 .project-card .placeholder.centered img {
   width: 60%;
@@ -34,6 +44,8 @@ permalink: /projects/
   filter: invert(1);
   display: block;
   margin: auto !important;
+  position: relative;
+  z-index: 1;
 }
 .project-card p {
   margin: 8px 0 16px 0;

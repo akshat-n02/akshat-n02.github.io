@@ -5,6 +5,11 @@ permalink: /projects/
 ---
 
 <style>
+.projects-intro {
+  margin-bottom: 40px;
+  font-size: 15px;
+  line-height: 1.7;
+}
 .row-3 {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -47,6 +52,8 @@ permalink: /projects/
 }
 </style>
 
+<p class="projects-intro">Write your intro paragraph here. This is a separate section above the project images.</p>
+
 <div class="row-3">
   <a href="/projects/project1/" class="project-card">
     <div class="placeholder centered" style="background-image: url('/assets/img/MONOMbg.jpg');">
@@ -60,7 +67,7 @@ permalink: /projects/
   </a>
   <a href="/projects/project3/" class="project-card">
     <div class="placeholder centered" style="background-image: url('/assets/img/DB55');">
-      <img src="/assets/img/logo-d-dock.png" alt="D/DOCK logo" style="width: 40%; filter: invert(1);">
+      <img src="/assets/img/logo-d-dock.png" alt="D/DOCK logo" style="width: 50%; filter: invert(1);">
     </div>
   </a>
 </div>

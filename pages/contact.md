@@ -10,6 +10,7 @@ permalink: /contact/
   grid-template-columns: 1fr 1fr;
   gap: 60px;
   margin-top: 40px;
+  align-items: center;
 }
 .contact-left h2 {
   font-size: 24px;

@@ -14,7 +14,7 @@ permalink: /contact/
 }
 .contact-left h2 {
   font-size: 24px;
-  font-weight: 900;
+  font-weight: 200;
   margin-bottom: 24px;
   line-height: 1.3;
 }

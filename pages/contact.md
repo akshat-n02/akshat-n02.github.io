@@ -70,7 +70,7 @@ permalink: /contact/
 
 <div class="contact-wrapper">
   <div class="contact-left">
-    <h2>I'm currently based in Berlin, working in events production and studying audio engineering. If you have any projects in mind, want to collaborate, or just want to talk, feel free to reach out.</h2>
+    <h2>I'm currently freelancing in events and studying audio engineering, but I'm always looking for new opportunities and projects. If you have any ideas in mind, want to collaborate, or just want to talk, feel free to reach out.</h2>
   </div>
   <div class="contact-right">
     <form action="https://formspree.io/f/mqewkryk" method="POST">

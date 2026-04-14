@@ -13,6 +13,7 @@ permalink: /contact/
   align-items: center;
 }
 .contact-left h2 {
+  text-transform: none;
   font-size: 24px;
   font-weight: 200;
   margin-bottom: 24px;

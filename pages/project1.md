@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project One
-permalink: /projects/project1/
+title: MONOM
+permalink: /projects/MONOM/
 ---
 
 Your project description here.

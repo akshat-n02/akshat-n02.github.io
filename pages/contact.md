@@ -69,12 +69,6 @@ permalink: /contact/
 <div class="contact-wrapper">
   <div class="contact-left">
     <h2>I'm currently based in Berlin, working in events production and studying audio engineering. If you have any projects in mind, want to collaborate, or just want to talk, feel free to reach out.</h2>
-    <div class="contact-info">
-      <p><strong>Name:</strong> Akshat Nagar</p>
-      <p><strong>Location:</strong> Berlin, Germany</p>
-      <p><strong>Email:</strong> <a href="mailto:akshat.n02@gmail.com">akshat.n02@gmail.com</a></p>
-      <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/akshatnagar02/" target="_blank">akshatnagar02</a></p>
-    </div>
   </div>
   <div class="contact-right">
     <form action="https://formspree.io/f/mqewkryk" method="POST">

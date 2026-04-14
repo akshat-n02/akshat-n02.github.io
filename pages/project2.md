@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project Two
-permalink: /projects/project2/
+title: 4DSOUND
+permalink: /projects/4DSOUND/
 ---
 
 Your project description here.

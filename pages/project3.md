@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project Three
-permalink: /projects/project3/
+title: D/DOCK - DB55
+permalink: /projects/DDOCK/
 ---
 
 Your project description here.

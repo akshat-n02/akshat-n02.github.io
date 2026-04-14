@@ -68,7 +68,7 @@ permalink: /contact/
 
 <div class="contact-wrapper">
   <div class="contact-left">
-    <h2>Get in touch for events production, audio engineering, or collaboration.</h2>
+    <h2>I'm currently based in Berlin, working in events production and studying audio engineering. If you have any projects in mind, want to collaborate, or just want to talk, feel free to reach out.</h2>
     <div class="contact-info">
       <p><strong>Name:</strong> Akshat Nagar</p>
       <p><strong>Location:</strong> Berlin, Germany</p>

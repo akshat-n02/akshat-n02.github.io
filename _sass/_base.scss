@@ -1,33 +1,19 @@
-/*
-  Reset some basic elements
-*/
-
-@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;400;700;900&display=swap');
 * {
   font-family: 'Nunito', sans-serif;
-  text-transform: uppercase;
 }
-
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
 }
-
-/*
-  Basic styling
-*/
-
-/* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
 }
-
 h1 {
   font-size: 2rem;
 }
@@ -43,8 +29,6 @@ h4, h5, h6 {
   margin-top: 1rem;
   font-size: 1rem;
 }
-
-/* Body */
 body {
   font-family: $base-font-family;
 }
@@ -54,7 +38,6 @@ body img {
   display: block;
   max-width: 600px;
 }
-
 p {
   display: block;
   margin-top: 1em;
@@ -64,45 +47,30 @@ p {
   line-height: 1.65;
   font-family: $body-font-family;
 }
-
-/* Lists */
 ul, ol, dl {
   margin-top: 1rem;
   margin-bottom: 1rem;
   margin-left: 1.5rem;
   font-family: $body-font-family;
 }
-
 ol li {
   margin-top: 1rem;
   margin-bottom: 1rem;
   margin-left: 1.5rem;
 }
-
 li {
   margin-bottom: 1rem;
 }
-
 dt {
   font-weight: bold;
 }
 dd {
   margin-bottom: .5rem;
 }
-
-/*
-  Links
-*/
-
 a {
   color: $brand-color;
   text-decoration: none;
 }
-
-/*
-  Blockquote
-*/
-
 blockquote {
   margin: 10px 20px 10px;
   padding: 0px 15px;
@@ -110,16 +78,11 @@ blockquote {
   color: #999;
   line-height: 1.5;
 }
-
-/**
- * Tables
- */
 table {
   border-collapse: collapse;
   margin-bottom: 30px;
   width: 100%;
 }
-
 table, th, td {
   border: 1px solid black;
 }

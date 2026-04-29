@@ -3,6 +3,11 @@ layout: page
 title: About Me
 permalink: /aboutme/
 ---
+<style>
+.page-content article {
+  text-transform: none;
+}
+</style>
 
 Hi, I'm Akshat, born in the US to Indian parents, but mostly raised in Munich. During my Bachelor's in Amsterdam, I started pursuing work and hobbies in events, music, and sound, and quickly realised this is what I want to do long term.
 

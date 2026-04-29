@@ -1,6 +1,6 @@
 ---
 layout: page
-title: D/DOCK
+title: DDOCK
 permalink: /projects/project3/
 ---
 

@@ -55,17 +55,17 @@ permalink: /projects/
 <p class="projects-intro">Hello hello helloooo here i talk about myself.</p>
 
 <div class="row-3">
-  <a href="/projects/project1/" class="project-card">
+  <a href="/projects/MONOM/" class="project-card">
     <div class="placeholder centered" style="background-image: url('/assets/img/MONOMbg.jpg');">
       <img src="/assets/img/monomlogo.jpg" alt="MONOM logo" style="width: 40%;">
     </div>
   </a>
-  <a href="/projects/project2/" class="project-card">
+  <a href="/projects/4DSOUND/" class="project-card">
     <div class="placeholder centered" style="background-image: url('/assets/img/4dsoundbg.png');">
       <img src="/assets/img/4dsoundlogo.png" alt="4DSOUND logo" style="width: 90%;">
     </div>
   </a>
-  <a href="/projects/project3/" class="project-card">
+  <a href="/projects/DDOCK/" class="project-card">
     <div class="placeholder centered" style="background-image: url('/assets/img/DB55');">
       <img src="/assets/img/logo-d-dock.png" alt="D/DOCK logo" style="width: 50%; filter: invert(1);">
     </div>

@@ -127,6 +127,7 @@ permalink: /projects/
 </style>
 
 <div id="projects">
+  <h2 class="section-heading">Projects</h2>
   <p class="projects-intro">Hello hello helloooo here i talk about myself.</p>
   <div class="row-3">
     <a href="/projects/MONOM/" class="project-card">

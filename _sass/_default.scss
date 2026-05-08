@@ -1,3 +1,7 @@
+/*
+  Site container
+*/
+
 .container {
   width: $container-width;
   margin-left: auto;
@@ -8,8 +12,6 @@
 }
 .content-wrapper {
   padding-top: $header-thickness+10px;
-  padding-left: 60px;
-  padding-right: 60px;
   margin: auto;
   display: block;
   width: $container-width - 20px;
@@ -25,8 +27,6 @@
   }
   .content-wrapper {
     padding-top: $header-thickness+10px;
-    padding-left: 60px;
-    padding-right: 60px;
     margin: auto;
     display: block;
     width: 95vw;

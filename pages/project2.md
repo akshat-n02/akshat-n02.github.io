@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 4DSOUND
-permalink: /projects/project2/
+permalink: /projects/4DSOUND/
 ---
 
 4DSOUND specializes in innovative spatial sound technology, creating immersive audio environments for artistic, cultural, and commercial applications. My role combined administrative tasks alongside marketing and outreach to promote, improve, and grow the 4DSOUND software.  

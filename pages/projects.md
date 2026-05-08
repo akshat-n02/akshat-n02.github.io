@@ -83,7 +83,7 @@ permalink: /projects/
 }
 .contact-left h2 {
   text-transform: none;
-  font-size: 24px;
+  font-size: 15px;
   font-weight: 200;
   margin-bottom: 24px;
   line-height: 1.3;

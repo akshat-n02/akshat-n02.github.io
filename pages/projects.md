@@ -87,8 +87,8 @@ permalink: /projects/
   font-weight: 200;
   margin-bottom: 24px;
   line-height: 1.3;
-  text-align: center;
-  max-width: 700px;
+  text-align: left;
+  max-width: 100%;
 }
 .contact-right {
   width: 600px;

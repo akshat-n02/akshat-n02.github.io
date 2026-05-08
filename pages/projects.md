@@ -53,7 +53,7 @@ permalink: /projects/
 .section-divider {
   border: none;
   border-top: 1px solid #eee;
-  margin: 80px 0;
+  margin: 40px 0;
 }
 .section-heading {
   font-size: 2rem;

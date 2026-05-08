@@ -57,7 +57,7 @@ permalink: /projects/
 }
 .section-heading {
   font-size: 2rem;
-  font-weight: 900;
+  font-weight: 600;
   text-transform: uppercase;
   margin-bottom: 40px;
   letter-spacing: 2px;
@@ -127,7 +127,8 @@ permalink: /projects/
 </style>
 
 <div id="projects">
-  <h2 class="section-heading">Projects</h3>
+  <h2 class="section-heading">Projects</h2>
+  <p class="projects-intro">Hello hello helloooo here i talk about myself.</p>
   <div class="row-3">
     <a href="/projects/MONOM/" class="project-card">
       <div class="placeholder centered" style="background-image: url('/assets/img/MONOMbg.jpg');">
@@ -150,7 +151,7 @@ permalink: /projects/
 <hr class="section-divider">
 
 <div id="about">
-  <h2 class="section-heading">About Me</h3>
+  <h2 class="section-heading">About Me</h2>
   <div class="about-section">
     <p>Hi, I am Akshat, born in the US to Indian parents, but mostly raised in Munich. During my Bachelor's in Amsterdam, I started pursuing work and hobbies in events, music, and sound, and quickly realised this is what I want to do long term.</p>
     <p>Based in Berlin, I am studying audio engineering and working as a freelancer across both large and small scale events. My background is in data science and business, but I have been redirecting those technical skills into audio and communication work, a mix that lets me move between technical, creative, and administrative roles pretty naturally. I am comfortable handling a range of tasks from running sound systems, live mixing, managing events, working with artists, media editing, to dealing with clients, operations and logistics.</p>
@@ -163,7 +164,7 @@ permalink: /projects/
 <hr class="section-divider">
 
 <div id="contact">
-  <h2 class="section-heading">Contact</h3>
+  <h2 class="section-heading">Contact</h2>
   <div class="contact-wrapper">
     <div class="contact-left">
       <h2>I am currently freelancing in events and studying audio engineering, but I am always looking for new opportunities and projects. If you have any ideas in mind, want to collaborate, or just want to talk, feel free to reach out.</h2>

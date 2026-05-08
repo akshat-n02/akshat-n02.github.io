@@ -1,3 +1,5 @@
+
+
 .site-header {
   display: flex;
   flex-direction: column;
@@ -26,13 +28,11 @@
   text-decoration: none;
   color: inherit;
   font-size: 14px;
-  text-transform: uppercase;
 }
 .header-location {
   font-size: 14px;
   color: inherit;
   margin-left: 8px;
-  text-transform: uppercase;
 }
 .site-title {
   position: absolute;
@@ -45,7 +45,18 @@
   z-index: 1;
   background: white;
   padding: 0 16px;
-  text-transform: uppercase;
 }
 .site-title a {
-  text-decor
+  text-decoration: none;
+  color: inherit;
+  font-weight: 900;
+  letter-spacing: 2px;
+}
+.dropdown {
+  display: none;
+}
+@media (max-width: 600px) {
+  .header-top { display: none; }
+  .site-title { display: none; }
+  .dropdown { display: block; }
+}

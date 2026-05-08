@@ -79,7 +79,7 @@ permalink: /projects/
   align-items: center;
   gap: 40px;
   margin-top: 40px;
-  max-width: 600px;
+  width: 100%;
 }
 .contact-left h2 {
   text-transform: none;
@@ -88,9 +88,10 @@ permalink: /projects/
   margin-bottom: 24px;
   line-height: 1.3;
   text-align: center;
+  max-width: 700px;
 }
 .contact-right {
-  width: 100%;
+  width: 600px;
 }
 .contact-right form {
   display: flex;

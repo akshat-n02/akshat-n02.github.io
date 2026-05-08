@@ -152,4 +152,30 @@ permalink: /projects/
 <div id="about">
   <h2 class="section-heading">About Me</h2>
   <div class="about-section">
-    <p>Hi, I'm Akshat, born in the US
+    <p>Hi, I am Akshat, born in the US to Indian parents, but mostly raised in Munich. During my Bachelor's in Amsterdam, I started pursuing work and hobbies in events, music, and sound, and quickly realised this is what I want to do long term.</p>
+    <p>Based in Berlin, I am studying audio engineering and working as a freelancer across both large and small scale events. My background is in data science and business, but I have been redirecting those technical skills into audio and communication work, a mix that lets me move between technical, creative, and administrative roles pretty naturally. I am comfortable handling a range of tasks from running sound systems, live mixing, managing events, working with artists, media editing, to dealing with clients, operations and logistics.</p>
+    <p>Sound has always fascinated me, not just from a technical point of view, but also how it can shape experiences and bring people together. That is what pulls me toward events in particular, the hands-on work with artists and production setups, but also the social energy of it, being around people, reading the room, making things happen in real time. I am especially drawn to the intersection of technology and art.</p>
+    <p>I believe I bring a calm and grounded presence to the environments I work in, especially in fast-paced or high-pressure situations. Outside of work, you will mostly find me making music, playing guitar, mixing vinyl, bouldering, or simply enjoying nature :-)</p>
+    <p>If any of this resonates with what you are working on or you would simply like to chat, I would love to hear from you. Thanks for coming by!</p>
+  </div>
+</div>
+
+<hr class="section-divider">
+
+<div id="contact">
+  <h2 class="section-heading">Contact</h2>
+  <div class="contact-wrapper">
+    <div class="contact-left">
+      <h2>I am currently freelancing in events and studying audio engineering, but I am always looking for new opportunities and projects. If you have any ideas in mind, want to collaborate, or just want to talk, feel free to reach out.</h2>
+    </div>
+    <div class="contact-right">
+      <form action="https://formspree.io/f/mqewkryk" method="POST">
+        <input type="text" name="name" placeholder="Name" required>
+        <input type="email" name="email" placeholder="Email" required>
+        <input type="text" name="subject" placeholder="Subject">
+        <textarea name="message" placeholder="Message" required></textarea>
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+  </div>
+</div>

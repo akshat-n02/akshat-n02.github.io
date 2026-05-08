@@ -83,13 +83,12 @@ permalink: /projects/
 }
 .contact-left h2 {
   text-transform: none;
-  font-size: 22px;
+  font-size: 13px;
   font-weight: 200;
   line-height: 1.8;
   text-align: left;
   max-width: 100%;
-  border-left: 2px solid #000;
-  padding-left: 20px;
+  margin-top: 20px;
 }
 .contact-right {
   width: 100%;

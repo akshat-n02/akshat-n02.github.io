@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MONOM
-permalink: /projects/project1/
+permalink: /projects/MONOM/
 ---
 
 

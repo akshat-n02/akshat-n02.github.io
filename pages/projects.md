@@ -78,17 +78,18 @@ permalink: /projects/
   grid-template-columns: 1fr 1fr;
   gap: 60px;
   margin-top: 40px;
-  align-items: center;
+  align-items: start;
   width: 100%;
 }
 .contact-left h2 {
   text-transform: none;
-  font-size: 15px;
+  font-size: 22px;
   font-weight: 200;
-  margin-bottom: 24px;
   line-height: 1.8;
   text-align: left;
   max-width: 100%;
+  border-left: 2px solid #000;
+  padding-left: 20px;
 }
 .contact-right {
   width: 100%;

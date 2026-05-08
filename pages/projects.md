@@ -74,11 +74,12 @@ permalink: /projects/
   text-transform: none;
 }
 .contact-wrapper {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 60px;
-  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
   align-items: center;
+  gap: 40px;
+  margin-top: 40px;
+  max-width: 600px;
 }
 .contact-left h2 {
   text-transform: none;
@@ -86,6 +87,10 @@ permalink: /projects/
   font-weight: 200;
   margin-bottom: 24px;
   line-height: 1.3;
+  text-align: center;
+}
+.contact-right {
+  width: 100%;
 }
 .contact-right form {
   display: flex;

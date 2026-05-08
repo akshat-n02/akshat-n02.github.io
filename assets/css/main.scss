@@ -1,18 +1,13 @@
 ---
 ---
-
-$base-font-family: 'Roboto', sans-serif;
-$body-font-family: 'Roboto', sans-serif;
+$base-font-family: 'Nunito', sans-serif;
+$body-font-family: 'Nunito', sans-serif;
 $code-font-family: "Source Code Pro", monospace;
-
 $brand-color: black;
-
-$container-width: 1100px;
+$container-width: 1400px;
 $tablet-width: 600px;
 $phone-width: 480px;
-
 $header-thickness: 56px;
-
 $icon-transition-time: 1.0s;
 $envelope-color: #f39c12;
 $twitter-color: #00aced;
@@ -25,5 +20,4 @@ $pinterest-color: #bd081c;
 $medium-color: #00AB6C;
 $codepen-color: black;
 $rss-color: #ff6600;
-
 @import "-sections-dir";

@@ -15,7 +15,7 @@ Based in Berlin, I'm studying audio engineering and working as a freelancer acro
 
 Sound has always fascinated me, not just from a technical point of view, but also how it can shape experiences and bring people together. That's what pulls me toward events in particular, the hands-on work with artists and production setups, but also the social energy of it, being around people, reading the room, making things happen in real time. I'm especially drawn to the intersection of technology and art. 
 
-I believe I bring a calm and grounded presence to the environments I work in, especially in fast-paced or high-pressure situations. Outside of work, you will mostly find me making music, playing guitar, mixing vinyl, bouldering, or simply enjoying nature :)
+I believe I bring a calm and grounded presence to the environments I work in, especially in fast-paced or high-pressure situations. Outside of work, you will mostly find me making music, playing guitar, mixing vinyl, bouldering, or enjoying nature.
 
 If any of this resonates with what you're working on or you would simply like to chat, I'd love to hear from you. Thanks for coming by!
 

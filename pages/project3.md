@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project Three
-permalink: /projects/project3/
+title: DB55 - D/DOCK
+permalink: /projects/DDOCK/
 ---
 
 D/DOCK is an Amsterdam-based creative studio working at the intersection of architecture, design, and community. As a team of architects, designers, engineers, and strategists, they create meaningful spaces that foster community, minimise environmental impact, and ensure economic resilience. Beyond spatial design, D/DOCK co-founded initiatives like DB55, Buurthotel, and Workdaypass — projects that connect neighbourhoods, buildings, and people through a blended-use approach.

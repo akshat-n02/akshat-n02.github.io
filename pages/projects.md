@@ -76,11 +76,18 @@ permalink: /projects/
   margin-bottom: 20px;
   text-transform: none;
 }
+#contact {
+  background-image: url('/assets/img/aki-contact.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 60px 40px;
+  margin: 0 -60px;
+}
 .contact-wrapper {
   display: flex;
   flex-direction: column;
   gap: 30px;
-  margin-top: 40px;
+  margin-top: 10px;
   max-width: 600px;
 }
 .contact-left h2 {

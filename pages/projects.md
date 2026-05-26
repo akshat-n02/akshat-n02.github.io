@@ -188,3 +188,11 @@ permalink: /projects/
     </div>
   </div>
 </div>
+
+#contact {
+  background-image: url('/assets/img/aki-contact.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 60px 40px;
+}
+

@@ -76,6 +76,12 @@ permalink: /projects/
   margin-bottom: 20px;
   text-transform: none;
 }
+#contact {
+  background-image: url('/assets/img/aki-contact.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 60px 40px;
+}
 .contact-wrapper {
   display: flex;
   flex-direction: column;
@@ -188,11 +194,3 @@ permalink: /projects/
     </div>
   </div>
 </div>
-
-#contact {
-  background-image: url('/assets/img/aki-contact.jpg');
-  background-size: cover;
-  background-position: center;
-  padding: 60px 40px;
-}
-

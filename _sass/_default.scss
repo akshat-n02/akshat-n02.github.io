@@ -1,11 +1,14 @@
 /*
   Site container
 */
-
 .container {
   width: $container-width;
   margin-left: auto;
   margin-right: auto;
+  background-image: url('/assets/img/akiaboutme.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 .container a {
   text-decoration: underline;

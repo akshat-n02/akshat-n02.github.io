@@ -51,9 +51,7 @@ permalink: /projects/
   z-index: 1;
 }
 .section-divider {
-  border: none;
-  border-top: 1px solid #eee;
-  margin: 40px 0;
+  display: none;
 }
 .section-heading {
   font-size: 2rem;
@@ -65,19 +63,10 @@ permalink: /projects/
 #contact .section-heading {
   margin-bottom: 10px;
 }
-#projects {
-  background-image: url('/assets/img/akiaboutme.jpg');
-  background-size: cover;
-  background-position: center;
-  padding: 60px 200px;
-  margin: 0 -200px;
-}
-#about {
-  background-image: url('/assets/img/akiaboutmedesign.jpg');
-  background-size: cover;
-  background-position: center;
-  padding: 60px 200px;
-  margin: 0 -200px;
+#projects, #about, #contact {
+  background: none;
+  padding: 60px 0;
+  margin: 0;
 }
 .about-section {
   max-width: 700px;
@@ -89,13 +78,6 @@ permalink: /projects/
 .about-section p {
   margin-bottom: 20px;
   text-transform: none;
-}
-#contact {
-  background-image: url('/assets/img/akicontact.jpg');
-  background-size: cover;
-  background-position: center;
-  padding: 60px 200px;
-  margin: 0 -200px;
 }
 .contact-wrapper {
   display: flex;

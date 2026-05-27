@@ -77,11 +77,11 @@ permalink: /projects/
   text-transform: none;
 }
 #contact {
-  background-image: url('/assets/img/akicontact.jpg');
+  background-image: url('/assets/img/aki-contact.jpg');
   background-size: cover;
   background-position: center;
-  padding: 60px 40px;
-  margin: 0 -60px;
+  padding: 60px 200px;
+  margin: 0 -200px;
 }
 .contact-wrapper {
   display: flex;

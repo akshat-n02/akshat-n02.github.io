@@ -77,7 +77,7 @@ permalink: /projects/
   text-transform: none;
 }
 #contact {
-  background-image: url('/assets/img/aki-contact.jpg');
+  background-image: url('/assets/img/akicontact.jpg');
   background-size: cover;
   background-position: center;
   padding: 60px 40px;

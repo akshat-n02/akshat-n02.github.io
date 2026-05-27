@@ -182,7 +182,7 @@ permalink: /projects/
   <h2 class="section-heading">Contact</h2>
   <div class="contact-wrapper">
     <div class="contact-left">
-      <h2>I am currently freelancing in events and studying audio engineering, but I am always looking for new opportunities and projects. If you have any ideas in mind, want to collaborate, or just want to talk, feel free to reach out TEST TEST TEST.</h2>
+      <h2>I am currently freelancing in events and studying audio engineering, but I am always looking for new opportunities and projects. If you have any ideas in mind, want to collaborate, or just want to talk, feel free to reach out TEST TEST.</h2>
     </div>
     <div class="contact-right">
       <form action="https://formspree.io/f/mqewkryk" method="POST">

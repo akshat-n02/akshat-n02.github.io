@@ -67,7 +67,6 @@ permalink: /projects/
   background-image: url('/assets/img/akiaboutme.jpg');
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
   padding: 60px 200px;
   margin: 0 -200px;
 }
@@ -75,7 +74,6 @@ permalink: /projects/
   background-image: url('/assets/img/akiaboutmedesign.jpg');
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
   padding: 60px 200px;
   margin: 0 -200px;
 }
@@ -83,7 +81,6 @@ permalink: /projects/
   background-image: url('/assets/img/akicontact.jpg');
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
   padding: 60px 200px;
   margin: 0 -200px;
 }

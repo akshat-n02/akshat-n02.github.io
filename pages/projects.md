@@ -65,6 +65,20 @@ permalink: /projects/
 #contact .section-heading {
   margin-bottom: 10px;
 }
+#projects {
+  background-image: url('/assets/img/akiaboutme.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 60px 200px;
+  margin: 0 -200px;
+}
+#about {
+  background-image: url('/assets/img/akiaboutmedesign.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 60px 200px;
+  margin: 0 -200px;
+}
 .about-section {
   max-width: 700px;
   font-size: 15px;
@@ -77,7 +91,7 @@ permalink: /projects/
   text-transform: none;
 }
 #contact {
-  background-image: url('/assets/img/akicontact.jpg');
+  background-image: url('/assets/img/aki-contact.jpg');
   background-size: cover;
   background-position: center;
   padding: 60px 200px;

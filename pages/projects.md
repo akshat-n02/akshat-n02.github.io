@@ -72,7 +72,7 @@ permalink: /projects/
   margin: 0 -200px;
 }
 #about {
-  background-image: url('/assets/img/aboutmedesign.jpg');
+  background-image: url('/assets/img/akiaboutmedesign.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;

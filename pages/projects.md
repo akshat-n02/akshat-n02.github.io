@@ -67,15 +67,13 @@ permalink: /projects/
   background-image: url('/assets/img/akiaboutme.jpg');
   background-size: cover;
   background-position: center;
-  padding: 60px 200px;
-  margin: 0 -200px;
+  padding: 60px 40px;
 }
 #about-contact-wrapper {
   background-image: url('/assets/img/mergedimage.png');
   background-size: cover;
   background-position: center;
-  padding: 0 200px;
-  margin: 0 -200px;
+  padding: 0 40px;
 }
 #about {
   padding: 60px 0;
